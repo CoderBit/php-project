@@ -1,0 +1,60 @@
+.space{
+  height:20px;
+  position: relative;
+}
+
+.line{
+   border-bottom: 3px solid #3379E1;
+   width:100%;
+}
+
+.trending {
+    left: 150px;
+    width: 72%;
+    position:relative;
+}
+
+.trending2 {
+    left: 20%;
+    width: 72%;
+    position:relative;
+}
+
+.text-heading{
+  font-size: 25px;
+  color: #fff;
+  background-color: #3379E1;
+  padding: 10px;
+  position: relative;
+  left: -15px;
+  top: -3px;
+}
+
+.inner-trend {
+    left: 14%;
+    display: inline-block;
+    position:relative;
+}
+
+.trend{
+  width: 140px;
+  height: 140px;
+  background-color: #ccc;
+  margin: 15px;
+  position: relative;
+  display:inline-block;
+}
+
+.image-fix{
+  position: relative;
+  left: -15px;
+}
+
+.brand-image{
+  width:40px; 
+  height:40px; 
+  top:-10px; 
+  position:relative;
+  box-shadow: 0 0 10px -2px #fff;
+  border-radius: 50%;
+}
